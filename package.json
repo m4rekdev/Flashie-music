@@ -1,0 +1,24 @@
+{
+  "name": "flashie",
+  "version": "1.0.2",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@devsnowflake/quick.db": "^2.0.3",
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.10.0",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.1",
+    "erela.js": "^2.3.3",
+    "kurasuta": "^3.0.2",
+    "moment": "^2.29.3"
+  }
+}
